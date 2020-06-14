@@ -1,2 +1,2 @@
 # pthread-mutex
-pthread_mutex_cyclic in c
+pthread_mutex_sync in c
